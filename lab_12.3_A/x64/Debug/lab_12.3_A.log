@@ -1,0 +1,4 @@
+﻿  lab_12.3_A.cpp
+C:\Users\VITUK\source\repos\lab_12.3_A\lab_12.3_A\lab_12.3_A.cpp(216,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\VITUK\source\repos\lab_12.3_A\lab_12.3_A\lab_12.3_A.cpp(457,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab_12.3_A.vcxproj -> C:\Users\VITUK\source\repos\lab_12.3_A\x64\Debug\lab_12.3_A.exe
